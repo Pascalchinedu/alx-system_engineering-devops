@@ -1,2 +1,3 @@
-#!bin/bash
-new work
+#!/bin/bash
+why me
+

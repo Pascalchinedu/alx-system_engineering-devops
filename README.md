@@ -1,3 +1,3 @@
 #!/bin/bash
-why me
+shell permissione
 

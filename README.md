@@ -1,3 +1,3 @@
-#!/bin/bash
-shell permissione
-
+Shell Permissions 
+Shell variables
+Shell Redirection

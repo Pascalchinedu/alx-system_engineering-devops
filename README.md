@@ -1,3 +1,1 @@
-Shell Permissions 
-Shell variables
-Shell Redirection
+#Project on Shell Variables, Permissions, Signals, Regular Expression
